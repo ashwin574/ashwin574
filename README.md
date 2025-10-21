@@ -20,8 +20,8 @@ I'm an Embedded Systems & IoT enthusiast with experience in designing smart, rea
 - *Automated Industrial Conveyor* – Embedded control for optimized manufacturing processes.
 
 ## Contact
-- 📫 Email: your.email@example.com
-- 🌐 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 💻 GitHub: [github.com/YourGitHub](https://github.com/YourGitHub)
+- 📫 Email: ashwintt65@gmail.com
+- 🌐 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ashwin-tkrishna)
+- 💻 GitHub: [github.com/YourGitHub](https://github.com/ashwin574)
 
 ---
