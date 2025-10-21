@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @ashwin574
-- 👀 I’m interested in AI | ROBOTICS | CODING | SOFTWARE ENGINEERING | INVENTOR |
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any software developing
-- 📫 How to reach me on instagram ashwin_krishna
+# Hi there, I'm Ashwin 👋
 
-<!---
-ashwin574/ashwin574 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I'm an Embedded Systems & IoT enthusiast with experience in designing smart, real-time, and energy-efficient solutions. Skilled in *C, C++, Python, and hands-on with **Arduino, STM32, ESP32, and Raspberry Pi*. Passionate about automation, IoT projects, and innovative technology.
+
+## Skills
+- Embedded Systems Design & Development
+- IoT Connectivity: Wi-Fi, Bluetooth, Zigbee, Cloud Integration
+- Sensor & Actuator Interfacing
+- Firmware Development & Hardware-Software Integration
+- Circuit Design & PCB Prototyping
+- Data Acquisition & Signal Processing
+- Debugging & Troubleshooting Embedded Systems
+- Automation for Industrial, Home & Healthcare Applications
+- IoT Security & Protocols
+
+## Projects
+- *Smart Home Automation System* – Control home appliances remotely via IoT.
+- *IoT Health Monitoring* – Real-time patient data monitoring and alerts.
+- *Automated Industrial Conveyor* – Embedded control for optimized manufacturing processes.
+
+## Contact
+- 📫 Email: your.email@example.com
+- 🌐 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 💻 GitHub: [github.com/YourGitHub](https://github.com/YourGitHub)
+
+---
